@@ -14,3 +14,4 @@ if(Interpolacja->ItemIndex==2)
                 //obliczamy odlegosci do wezla pierwszego dla wszystkich sondazy
                 int indeks2=0;
                 for(int j=0; j<=3; j++)
+cahnge
