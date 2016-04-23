@@ -11,3 +11,4 @@
  
                 //ustalamy zbior o zadanej liczbie sondazy
                 int indeks=0;
+ga³¹zka3
