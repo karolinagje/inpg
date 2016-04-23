@@ -1,0 +1,10 @@
+}
+                        //podstawiamy glebokosc sredniej wazonej odwrotnoscia odlegosci
+                        zbior_wezlow[indeks2].h=suma_h_d/suma_1_d;
+                }
+ 
+       Memo1->SetSelTextBuf("METODA SREDNIEJ WAZONEJ ODWROTNOSCIA ODLEGLOSCI\r\n");
+       Memo1->Lines->Add("------------------------------------------------------------------------------------------------------------");
+       Memo1->SetSelTextBuf("Wykladnik potegi: ");
+       Memo1->SetSelTextBuf(Edit3->Text.c_str());
+       Memo1->SetSelTextBuf("\r\n");
