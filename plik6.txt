@@ -8,4 +8,4 @@
  
                                              {
                                              indeks=i;
-                                             }
+                            master3              }
