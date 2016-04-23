@@ -1,0 +1,8 @@
+Memo1->SetSelTextBuf("\r\n");
+       Memo1->SetSelTextBuf("Wêze³ nr3: ");
+       Memo1->SetSelTextBuf(FloatToStrF(zbior_wezlow[2].h, ffFixed, 4,2).c_str());
+       Memo1->SetSelTextBuf("\r\n");
+       Memo1->SetSelTextBuf("Wêze³ nr4: ");
+       Memo1->SetSelTextBuf(FloatToStrF(zbior_wezlow[3].h, ffFixed, 4,2).c_str());
+       Memo1->SetSelTextBuf("\r\n");
+       Memo1->SetSelTextBuf("\r\n");
