@@ -1,0 +1,8 @@
+Memo1->SetSelTextBuf("Liczba punktow do interpolacji: ");
+       Memo1->SetSelTextBuf(Edit4->Text.c_str());
+       Memo1->SetSelTextBuf("\r\n");
+       Memo1->SetSelTextBuf("Wêze³ nr1: ");
+       Memo1->SetSelTextBuf(FloatToStrF(zbior_wezlow[0].h, ffFixed, 4,2).c_str());
+       Memo1->SetSelTextBuf("\r\n");
+       Memo1->SetSelTextBuf("Wêze³ nr2: ");
+       Memo1->SetSelTextBuf(FloatToStrF(zbior_wez
